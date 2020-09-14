@@ -18,3 +18,5 @@ class CreateCostumes<ActiveRecord::Migration[5.2]
       t.datetime :created_at
       t.datetime :updated_at
   end
+
+end
